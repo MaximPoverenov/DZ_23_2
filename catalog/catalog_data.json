@@ -21,7 +21,7 @@
     "fields": {
       "name": "Чайка",
       "description": "товар для категории холодильник",
-      "image": "",
+      "image": "products/чайка хл.webp",
       "category": 1,
       "price": "10000.00",
       "created_at": "2024-07-14T20:10:23.936Z",
@@ -34,7 +34,7 @@
     "fields": {
       "name": "Samsung",
       "description": "Холодильник двухкамерный",
-      "image": "",
+      "image": "products/samsung hd.webp",
       "category": 1,
       "price": "50000.00",
       "created_at": "2024-07-14T20:11:09.175Z",
@@ -47,7 +47,7 @@
     "fields": {
       "name": "LQ",
       "description": "50 дюймов",
-      "image": "",
+      "image": "products/lg tv.webp",
       "category": 2,
       "price": "40000.00",
       "created_at": "2024-07-14T20:11:44.251Z",
@@ -60,7 +60,7 @@
     "fields": {
       "name": "SONY",
       "description": "",
-      "image": "",
+      "image": "products/sony tv.webp",
       "category": 2,
       "price": "30000.00",
       "created_at": "2024-07-14T20:34:24.017Z",
