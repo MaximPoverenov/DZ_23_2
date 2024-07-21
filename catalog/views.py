@@ -25,4 +25,4 @@ def product_detail(request, pk):
     product = get_object_or_404(Product, pk=pk)
     product = Product.objects.get(pk=pk)
     context = {"item": product}
-    return render(request, 'catalog/product_detail.html', context)
+    return render(request, 'catalog/product_detail.html', context) 
