@@ -16,7 +16,7 @@ class Command(BaseCommand):
         #     options['password'],
         # )
         user = User.objects.create(email='test5@test.com')
-        user.set_password('123456')
+        user.set_password('123123')
         user.is_active = True
         user.is_staff = True
         user.is_superuser = True
